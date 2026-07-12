@@ -4,4 +4,4 @@ let favLang = "Python"
 
 console.log(name)
 console.log(age)
-console.log(lang)
+console.log(favLang)
